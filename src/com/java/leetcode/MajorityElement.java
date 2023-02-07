@@ -53,6 +53,7 @@ public class MajorityElement {
 			// adding the number to the list;
 			list1.add(number);
 		}
+		bufferedReader.close();
 		// returning the updated list
 		return list1;
 
